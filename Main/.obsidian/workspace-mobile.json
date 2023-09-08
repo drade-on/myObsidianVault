@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "c850aecc859f4786",
+    "type": "split",
+    "children": [
+      {
+        "id": "a66a002bc9479ae4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f0a1e25338d6384",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Let there be light !.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f452bbefb04053b1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8f96c4708de20c0d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "11ae4d8af775d494",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4b6748d0c2fb6ba8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d0f826f963172a77",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e7ddc65411c727ca",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f42c62be51dc1251",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Let there be light !.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f7f15b81f3e0c24b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Let there be light !.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "afcdd819c2819b41",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Let there be light !.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "2f0a1e25338d6384",
+  "lastOpenFiles": []
+}
