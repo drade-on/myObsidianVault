@@ -15,4 +15,6 @@ Verba volant scripta manet
 I should take care of myself more
 I should groom and shower daily 
 I should clip my nails daily
-I 
+I should make this git repo part private
+Id rather do this than play any game :3
+
